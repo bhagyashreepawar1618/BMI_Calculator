@@ -91,8 +91,6 @@ input
 
 #img-box
 {
-    height:390px;
-    width:350px;
-    background-image:url("chart.jpg");
+    margin-top:20px;
     box-shadow:10px 15px 10px grey;
 }
